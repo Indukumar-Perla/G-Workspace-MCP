@@ -201,3 +201,6 @@ MIT
 
 - [GitHub Issues](https://github.com/nspady/google-calendar-mcp/issues)
 - [Documentation](docs/)
+
+## PS
+Will add other G Suite tools in future. Keep Hacking 🚀
